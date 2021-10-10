@@ -5,6 +5,13 @@
 * Browsers: last 4 version
 */
 
+/*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v8.3.6,
+* Autoprefixer: v10.3.1
+* Browsers: last 4 version
+*/
+
 @charset"UTF-8";
 body>div{width: 90%;margin:0 auto;}
 #logo{display: inline-block;width:4rem;height: 3rem;font-size: 1.5rem; top:2rem; position: relative;}
